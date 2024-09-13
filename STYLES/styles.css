@@ -638,7 +638,7 @@ footer {
     .section-one {
         flex-direction: column;
         justify-content: normal;
-        height: 100vh;
+        height: 120vh;
         padding: 20% 0 0 0;
 
         .friends {
