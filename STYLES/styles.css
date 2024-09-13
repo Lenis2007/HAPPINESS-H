@@ -793,10 +793,11 @@ footer {
 
         h3 {
             padding: 30px;
+            font-size: 80px;
         }
 
         .subscribe {
-            margin: 50px 155px 50px;
+            margin: 50px 100px 50px;
         }
     }
 
