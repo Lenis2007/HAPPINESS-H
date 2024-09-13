@@ -638,7 +638,7 @@ footer {
     .section-one {
         flex-direction: column;
         justify-content: normal;
-        height: 190vh;
+        height: 150vh;
         padding: 20% 0 0 0;
 
         .friends {
@@ -679,6 +679,8 @@ footer {
     }
 
     .section-two {
+        height: 150vh;
+
         .friends-2 {
             display: none;
         }
@@ -713,6 +715,10 @@ footer {
 
         h3 {
             width: 100%;
+        }
+
+        h4 {
+            font-size: 85px;
         }
     }
 
