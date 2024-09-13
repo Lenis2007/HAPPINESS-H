@@ -768,7 +768,7 @@ footer {
         flex-direction: column;
 
         .formulary {
-            margin: 25px;
+            margin: 25px 0;
             width: 65%;
         }
 
